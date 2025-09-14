@@ -8,3 +8,4 @@
 vaalacat/frp-panel
 --platform=linux/arm/v7 vaalacat/frp-panel
 containrrr/watchtower
+ddsderek/wxchat
